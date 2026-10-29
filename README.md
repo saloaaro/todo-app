@@ -1,4 +1,4 @@
-# Todo-App 📝
+# Todo-App 
 
 A simple and modern **Todo List web application** built with **HTML, CSS, and JavaScript**.  
 This app allows users to add, complete, and delete tasks, with data saved in the browser's **localStorage**.
